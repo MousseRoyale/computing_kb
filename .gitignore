@@ -1,7 +1,7 @@
 # Obsidian internal files
 .obsidian/
 
-# Plugins (optional if you don’t want to share them)
+# Plugins 
 .obsidian/plugins/
 .obsidian/workspace/
 
