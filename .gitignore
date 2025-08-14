@@ -1,0 +1,19 @@
+# Obsidian internal files
+.obsidian/
+
+# Plugins (optional if you don’t want to share them)
+.obsidian/plugins/
+.obsidian/workspace/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary / swap files
+*.tmp
+*.bak
+*.swp
+
+# Optional: build folders for site generators
+site/
+node_modules/
