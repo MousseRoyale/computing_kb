@@ -14,6 +14,7 @@ https://www.vulnhub.com/entry/venom-1,701/
 
 FTP: hostinger: hostinger
 http://venom.box/panel/ - dora: E7r9t8@Q#h%Hy+M1234
+nathan :: FzN+f2-rRaBgvALzj*Rk#_JJYfg8XfKhxqB82x_a
 
 ---
 \[To-Try LIST]:  
@@ -56,7 +57,9 @@ rev shell:
 ![[Pasted image 20250819043031.png]]
 
 history:
- cat  /var/www/html/subrion/backup/.htaccess 
+ cat  /var/www/html/subrion/backup/.htaccess -> FzN+f2-rRaBgvALzj*Rk#_JJYfg8XfKhxqB82x_a
+
+su: nathan
 
 
 80: Apache httpd 2.4.29 ((Ubuntu)) 
