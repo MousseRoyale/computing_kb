@@ -3,7 +3,7 @@
 
 **S1REN's Template Reference**
 
-\[OS]: Windows - British Gas GS-Z3 data logger
+\[OS]: 
 \[Web-Technology]: 
 \[Hostname]:  
 \[IP]:  
