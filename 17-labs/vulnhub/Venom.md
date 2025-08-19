@@ -5,7 +5,7 @@ https://www.vulnhub.com/entry/venom-1,701/
 
 **S1REN's Template Reference**
 
-\[OS]: 
+\[OS]: Unix
 \[Web-Technology]: 
 \[Hostname]:  
 \[IP]:  192.168.100.4
@@ -17,8 +17,6 @@ https://www.vulnhub.com/entry/venom-1,701/
 21/tcp   open   ftp        vsftpd 3.0.3
 80/tcp   open   http       Apache httpd 2.4.29 ((Ubuntu))
 443/tcp  open   http       Apache httpd 2.4.29
-
-
 
 
 ---
