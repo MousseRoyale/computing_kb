@@ -10,7 +10,7 @@ https://www.vulnhub.com/entry/venom-1,701/
 \[Hostname]:  
 \[IP]:  192.168.100.4
 \[USERS]:   
-\[CREDENTIALS]:  
+\[CREDENTIALS]:  hostinger
 
 ---
 \[To-Try LIST]:  
@@ -38,17 +38,13 @@ PORT     STATE  SERVICE    VERSION
 
 \[Web Services Enumeration]:   
 
-**80:**  http://192.168.100.4:80
+**80 and 443:**  http://192.168.100.4:80,http://192.168.100.4:443
 Apache httpd 2.4.29: https://www.exploit-db.com/exploits/744
 https://launchpad.net/bugs/1288690 -> CVE 2016-4979
+Page Source: 5f2a66f947fa5690c26506f66bde5c23 -> Crackstation -> hostinger
 Gobuster - /server-status
 
 
-
-**443:**http://192.168.100.4:443
-Apache httpd 2.4.29: https://www.exploit-db.com/exploits/744
-https://launchpad.net/bugs/1288690 -> CVE 2016-4979
-Gobuster - /server-status
 
 
 
