@@ -27,12 +27,14 @@ T0D0 --
 * You need to follow the 'hostinger' on 
 * 
 * 
-* aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI=
+* 
 * some knowledge of cipher is required to decode the dora password..
 * try on venom.box
 password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the administrator password 
 
-WXpOU2FHSnRVbWhqYlZGblpHMXNibHBYTld4amJWVm5XVEpzZDJGSFZuaz0=  -> 
+WXpOU2FHSnRVbWhqYlZGblpHMXNibHBYTld4amJWVm5XVEpzZDJGSFZuaz0=  -> standard vigienere cipher
+
+aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI= -> https://cryptii.com/pipes/vigenere-cipher
 
 
 
