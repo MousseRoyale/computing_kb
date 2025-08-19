@@ -60,6 +60,7 @@ history:
  cat  /var/www/html/subrion/backup/.htaccess -> FzN+f2-rRaBgvALzj*Rk#_JJYfg8XfKhxqB82x_a
 
 su: nathan
+![[Pasted image 20250819043355.png]]
 
 
 80: Apache httpd 2.4.29 ((Ubuntu)) 
