@@ -13,7 +13,7 @@ https://www.vulnhub.com/entry/venom-1,701/
 \[CREDENTIALS]:  hostinger
 
 FTP: hostinger: hostinger
-http://venom.box/panel/ - dora:
+http://venom.box/panel/ - dora: E7r9t8@Q#h%Hy+M1234
 
 ---
 \[To-Try LIST]:  
@@ -41,8 +41,7 @@ admin :: dora
 encrypted :: L7f9l8@J#p%Ue+Q1234
 key :: hostinger
 decrypted :: E7r9t8@Q#h%Hy+M1234
-to try on: 
-
+to try on: venom.box 
 
 
 venom.box -> add to hosts -> webpage -> Powered by Subrion 4.2
