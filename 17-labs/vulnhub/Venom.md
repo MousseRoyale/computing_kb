@@ -13,7 +13,7 @@ https://www.vulnhub.com/entry/venom-1,701/
 \[CREDENTIALS]:  hostinger
 
 FTP: hostinger, hostinger
-
+http://venom.box/panel/ - dora, 
 
 ---
 \[To-Try LIST]:  
@@ -32,11 +32,13 @@ WXpOU2FHSnRVbWhqYlZGblpHMXNibHBYTld4amJWVm5XVEpzZDJGSFZuaz0=  -> standard vigien
 aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI= -> https://cryptii.com/pipes/vigenere-cipher
 
 
-some knowledge of cipher is required to decode the dora password..
+some knowledge of cipher is required to decode the **dora** password..
 try on 
-password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the administrator password 
+password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the **administrator** password 
 
-key: hostinger
+admin :: dora
+e
+key :: hostinger
 
 
 
