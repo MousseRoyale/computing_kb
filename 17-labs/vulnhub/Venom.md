@@ -36,7 +36,7 @@ aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI= -> https://cryptii.com/
 
 key: hostinger
 
-venom.box -> add to hosts -> webpage
+venom.box -> add to hosts -> webpage -> Powered by Subrion 4.2
 
 
 80: Apache httpd 2.4.29 ((Ubuntu)) 
