@@ -38,7 +38,7 @@ PORT     STATE  SERVICE    VERSION
 
 \[Web Services Enumeration]:   
 
-**80:** http://192.168.100.4:80
+**80:**  http://192.168.100.4:80
 Apache httpd 2.4.29: https://www.exploit-db.com/exploits/744
 https://launchpad.net/bugs/1288690 -> CVE 2016-4979
 Gobuster - /server-status
