@@ -3,7 +3,7 @@
 
 **S1REN's Template Reference**
 
-\[OS]: 
+\[OS]: Windows 
 \[Web-Technology]: 
 \[Hostname]:  
 \[IP]:  
