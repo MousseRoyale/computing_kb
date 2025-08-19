@@ -54,6 +54,11 @@ rev shell:
 ![[Pasted image 20250819042218.png]]
 
 ![[Pasted image 20250819043031.png]]
+
+history:
+ cat  /var/www/html/subrion/backup/.htaccess 
+
+
 80: Apache httpd 2.4.29 ((Ubuntu)) 
 443: Apache httpd 2.4.29
 
