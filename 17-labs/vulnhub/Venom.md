@@ -38,7 +38,19 @@ PORT     STATE  SERVICE    VERSION
 7070/tcp closed realserver
 8084/tcp closed websnp
 
-\[Web Services Enumeration]:   ========================================================================= \[OTHER / PRIVILEGE-ESCALATION]:   ========================================================================= \Take Away Concepts: *  *  *
+\[Web Services Enumeration]:   
+
+80: 
+Apache httpd 2.4.29
+https://launchpad.net/bugs/1288690
+443:
+Apache httpd 2.4.29
+https://launchpad.net/bugs/1288690
+/server-status
+
+
+
+========================================================================= \[OTHER / PRIVILEGE-ESCALATION]:   ========================================================================= \Take Away Concepts: *  *  *
 
     
     HOTKEYS! Background: Black Foreground (important elements): Red Background-Color: Select Text > Shift + Alt + B + ENTER Foreground Color: Select Text > Shift + Alt + F + ENTER Move quickly with: Function key + left and right arrows Cntrl + left and right arrows Cntrl + Shift (select text) (edited)
