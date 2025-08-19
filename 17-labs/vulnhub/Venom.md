@@ -25,9 +25,7 @@ FTP: hostinger, hostinger
 T0D0 --
 
 * You need to follow the 'hostinger' on 
-* 
-* 
-* 
+
 * some knowledge of cipher is required to decode the dora password..
 * try on 
 password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the administrator password 
@@ -38,7 +36,7 @@ aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI= -> https://cryptii.com/
 
 key: hostinger
 
-venom.box -> add to hosts
+venom.box -> add to hosts -> webpage
 
 
 80: Apache httpd 2.4.29 ((Ubuntu)) 
