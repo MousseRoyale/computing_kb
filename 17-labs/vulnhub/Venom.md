@@ -19,7 +19,19 @@ FTP: hostinger, hostinger
 21:  ftp        vsftpd 3.0.3
 ![[Pasted image 20250819033712.png]]
 ![[Pasted image 20250819033823.png]]
-![[Pasted image 20250819033911.png]]
+└─$ cat hint.txt         
+	Hey there... 
+
+T0D0 --
+
+* You need to follow the 'hostinger' on WXpOU2FHSnRVbWhqYlZGblpHMXNibHBYTld4amJWVm5XVEpzZDJGSFZuaz0= also aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI=
+* some knowledge of cipher is required to decode the dora password..
+* try on venom.box
+password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the administrator password 
+
+
+
+
 
 80: Apache httpd 2.4.29 ((Ubuntu)) 
 443: Apache httpd 2.4.29
