@@ -24,12 +24,15 @@ FTP: hostinger, hostinger
 
 T0D0 --
 
-* You need to follow the 'hostinger' on WXpOU2FHSnRVbWhqYlZGblpHMXNibHBYTld4amJWVm5XVEpzZDJGSFZuaz0= also aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI=
+* You need to follow the 'hostinger' on 
+* 
+* 
+* aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI=
 * some knowledge of cipher is required to decode the dora password..
 * try on venom.box
 password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the administrator password 
 
-
+WXpOU2FHSnRVbWhqYlZGblpHMXNibHBYTld4amJWVm5XVEpzZDJGSFZuaz0=  -> 
 
 
 
