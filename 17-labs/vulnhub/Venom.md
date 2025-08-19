@@ -3,16 +3,15 @@ https://www.vulnhub.com/entry/venom-1,701/
 
 ---
 
+**S1REN's Template Reference**
 
-2. `S1REN's Template Reference`
-    
-    \[OS]: 
-    \[Web-Technology]: 
-    \[Hostname]:  
-    \[IP]:  192.168.100.4
-    \[USERS]:   
-    \[CREDENTIALS]:  
-    
+\[OS]: 
+\[Web-Technology]: 
+\[Hostname]:  
+\[IP]:  192.168.100.4
+\[USERS]:   
+\[CREDENTIALS]:  
+
 ---
 \[To-Try LIST]:  
 
