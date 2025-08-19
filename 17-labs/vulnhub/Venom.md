@@ -11,7 +11,13 @@ https://www.vulnhub.com/entry/venom-1,701/
     \[Hostname]:  
     \[IP]:  192.168.100.4
     \[USERS]:   
-    \[CREDENTIALS]:  ========================================================================= \[To-Try LIST]:  
+    \[CREDENTIALS]:  
+    
+---
+\[To-Try LIST]:  
+
+
+
 ---
 \[NMAP RESULTS]:  
 
