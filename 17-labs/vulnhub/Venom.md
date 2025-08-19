@@ -38,13 +38,16 @@ PORT     STATE  SERVICE    VERSION
 
 \[Web Services Enumeration]:   
 
-80: http://192.168.100.4:80
+**80:** http://192.168.100.4:80
 Apache httpd 2.4.29
 https://launchpad.net/bugs/1288690
-443:http://192.168.100.4:443
-Apache httpd 2.4.29
+https://www.exploit-db.com/exploits/744
+
+
+**443:**http://192.168.100.4:443
+Apache httpd 2.4.29: https://www.exploit-db.com/exploits/744
 https://launchpad.net/bugs/1288690
-/server-status
+Gobuster - /server-status
 
 
 
