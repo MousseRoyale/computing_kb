@@ -15,10 +15,8 @@ https://www.vulnhub.com/entry/venom-1,701/
 ---
 \[To-Try LIST]:  
 21:  ftp        vsftpd 3.0.3
-80:http://192.168.100.4:80
-Apache httpd 2.4.29 ((Ubuntu)) -> https://launchpad.net/bugs/1288690
-443: http://192.168.100.4:443
-Apache httpd 2.4.29
+80: Apache httpd 2.4.29 ((Ubuntu)) 
+443: Apache httpd 2.4.29
 
 
 
@@ -40,10 +38,10 @@ PORT     STATE  SERVICE    VERSION
 
 \[Web Services Enumeration]:   
 
-80: 
+80: http://192.168.100.4:80
 Apache httpd 2.4.29
 https://launchpad.net/bugs/1288690
-443:
+443:http://192.168.100.4:443
 Apache httpd 2.4.29
 https://launchpad.net/bugs/1288690
 /server-status
