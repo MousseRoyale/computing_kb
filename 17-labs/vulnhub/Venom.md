@@ -12,8 +12,8 @@ https://www.vulnhub.com/entry/venom-1,701/
 \[USERS]:   
 \[CREDENTIALS]:  hostinger
 
-FTP: hostinger, hostinger
-http://venom.box/panel/ - dora, 
+FTP: hostinger: hostinger
+http://venom.box/panel/ - dora:
 
 ---
 \[To-Try LIST]:  
@@ -36,10 +36,12 @@ some knowledge of cipher is required to decode the **dora** password..
 try on 
 password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the **administrator** password 
 
-admin :: dora
-e
-key :: hostinger
 
+admin :: dora
+encrypted :: L7f9l8@J#p%Ue+Q1234
+key :: hostinger
+decrypted :: E7r9t8@Q#h%Hy+M1234
+to try on: 
 
 
 
