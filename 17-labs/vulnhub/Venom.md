@@ -14,6 +14,10 @@ https://www.vulnhub.com/entry/venom-1,701/
 
 ---
 \[To-Try LIST]:  
+21/tcp   open   ftp        vsftpd 3.0.3
+80/tcp   open   http       Apache httpd 2.4.29 ((Ubuntu))
+443/tcp  open   http       Apache httpd 2.4.29
+
 
 
 
@@ -32,11 +36,7 @@ PORT     STATE  SERVICE    VERSION
 7070/tcp closed realserver
 8084/tcp closed websnp
 
-
-
-
-
-    ========================================================================= \[Web Services Enumeration]:   ========================================================================= \[OTHER / PRIVILEGE-ESCALATION]:   ========================================================================= \Take Away Concepts: *  *  *
+\[Web Services Enumeration]:   ========================================================================= \[OTHER / PRIVILEGE-ESCALATION]:   ========================================================================= \Take Away Concepts: *  *  *
 
     
     HOTKEYS! Background: Black Foreground (important elements): Red Background-Color: Select Text > Shift + Alt + B + ENTER Foreground Color: Select Text > Shift + Alt + F + ENTER Move quickly with: Function key + left and right arrows Cntrl + left and right arrows Cntrl + Shift (select text) (edited)
