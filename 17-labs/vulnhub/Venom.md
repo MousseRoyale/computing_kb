@@ -15,7 +15,7 @@ https://www.vulnhub.com/entry/venom-1,701/
 ---
 \[To-Try LIST]:  
 21/tcp   open   ftp        vsftpd 3.0.3
-80/tcp   open   http       Apache httpd 2.4.29 ((Ubuntu))
+80/tcp   open   http       Apache httpd 2.4.29 ((Ubuntu)) -> https://launchpad.net/bugs/1288690
 443/tcp  open   http       Apache httpd 2.4.29
 
 
