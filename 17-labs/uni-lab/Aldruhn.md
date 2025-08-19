@@ -3,7 +3,7 @@
 
 **S1REN's Template Reference**
 
-\[OS]: Windows 
+\[OS]: Windows - British Gas GS-Z3 data logger
 \[Web-Technology]: 
 \[Hostname]:  
 \[IP]:  
@@ -19,6 +19,11 @@
 ---
 \[NMAP RESULTS]:  
 
+PORT      STATE SERVICE    VERSION
+8971/tcp  open  tcpwrapped
+26415/tcp open  tcpwrapped
+30866/tcp open  tcpwrapped
+61103/tcp open  tcpwrapped
 
 --- 
 
