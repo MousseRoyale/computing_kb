@@ -14,10 +14,12 @@ https://www.vulnhub.com/entry/venom-1,701/
 
 ---
 \[To-Try LIST]:  
-21/tcp   open   ftp        vsftpd 3.0.3
-80/tcp   open   http       Apache httpd 2.4.29 ((Ubuntu)) -> https://launchpad.net/bugs/1288690
-443:
+21:  ftp        vsftpd 3.0.3
+80:http://192.168.100.4:80
+Apache httpd 2.4.29 ((Ubuntu)) -> https://launchpad.net/bugs/1288690
+443: http://192.168.100.4:443
 Apache httpd 2.4.29
+
 
 
 
