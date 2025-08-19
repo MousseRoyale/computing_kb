@@ -29,13 +29,16 @@ T0D0 --
 * 
 * 
 * some knowledge of cipher is required to decode the dora password..
-* try on venom.box
+* try on 
 password -- L7f9l8@J#p%Ue+Q1234 -> deocode this you will get the administrator password 
 
 WXpOU2FHSnRVbWhqYlZGblpHMXNibHBYTld4amJWVm5XVEpzZDJGSFZuaz0=  -> standard vigienere cipher
 
 aHR0cHM6Ly9jcnlwdGlpLmNvbS9waXBlcy92aWdlbmVyZS1jaXBoZXI= -> https://cryptii.com/pipes/vigenere-cipher
 
+key: hostinger
+
+venom.box -> add to hosts
 
 
 80: Apache httpd 2.4.29 ((Ubuntu)) 
