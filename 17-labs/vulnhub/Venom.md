@@ -65,7 +65,8 @@ su: nathan
 ![[Pasted image 20250819043428.png]]
 
 GTFO BIN:
-
+![[Pasted image 20250819043531.png]]
+![[Pasted image 20250819043551.png]]
 80: Apache httpd 2.4.29 ((Ubuntu)) 
 443: Apache httpd 2.4.29
 
