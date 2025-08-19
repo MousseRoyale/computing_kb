@@ -12,9 +12,13 @@ https://www.vulnhub.com/entry/venom-1,701/
 \[USERS]:   
 \[CREDENTIALS]:  hostinger
 
+FTP: hostinger, hostinger
+
 ---
 \[To-Try LIST]:  
 21:  ftp        vsftpd 3.0.3
+![[Pasted image 20250819033712.png]]
+
 80: Apache httpd 2.4.29 ((Ubuntu)) 
 443: Apache httpd 2.4.29
 
