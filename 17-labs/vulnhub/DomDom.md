@@ -98,6 +98,11 @@ alias ll='ls -lsaht --color=auto'
 stty raw -echo ; fg ; reset  
 stty columns 200 rows 20
 
+cd home
+
+# Saw domdom user here
+cd domdom
+
 ```
 
 
