@@ -113,6 +113,9 @@ uname -a #Ubuntu 16.04 LTS
 
 sudo -l #no luck needs passwd
 groups #www-data, sudo
+env #nothing hugely special
+
+find / -perm -u=s -type f 2>/dev/null
 
 
 ```
