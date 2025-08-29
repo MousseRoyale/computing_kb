@@ -115,7 +115,9 @@ sudo -l #no luck needs passwd
 groups #www-data, sudo
 env #nothing hugely special
 
+#SUID/SGID
 find / -perm -u=s -type f 2>/dev/null
+find / -perm -g=s -type f 2>/dev/null
 
 
 ```
