@@ -134,7 +134,7 @@ cd /tmp
 cat etc/shadow
 # Now can crack /etc/shadow w/ hashcat/jtr
 
-
+/bin
 
 
 
