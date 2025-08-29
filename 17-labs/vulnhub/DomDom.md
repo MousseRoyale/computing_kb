@@ -49,7 +49,8 @@ OS details: Linux 3.2 - 4.14, Linux 3.8 - 3.16
 
 Nothing at 
 
-Gobuster - /server-status
+Dirb:
+/server-status
 /admin.php
 
 ---
