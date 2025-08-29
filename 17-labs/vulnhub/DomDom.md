@@ -18,6 +18,7 @@ User form - inputs sanitised
 
 Fuzzing
 
+Check GTFO Bins
 
 ---
 \[NMAP RESULTS]:  
@@ -120,6 +121,8 @@ find / -perm -u=s -type f 2>/dev/null # pkexec, fusermount, mount/umount/fstab??
 find / -perm -g=s -type f 2>/dev/null # crontab, mlocate, ssh-agent
 
 
+# Granted Implicit
+getcap -r / 2>/dev/null #
 
 
 ```
