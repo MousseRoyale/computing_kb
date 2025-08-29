@@ -143,8 +143,7 @@ Mj7AGmPR-m&Vf>Ry{}LJRBS5nc+*V.#a
 
 su root #with passwd
 
-#POST EXPLOITATION
-
+#POST EXPLOITATION - did not find nothing else notable (i.e., other readmes) but we own the thingo now
 
 ```
 
