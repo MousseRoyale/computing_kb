@@ -56,8 +56,11 @@ Dirb:
 
 SQLi - no results
 Fuzzing no results
+Brute forcing?
+Code Eval - ACE?
 
-Burpsuit
+Burpsuite
+
 
 ---
 
