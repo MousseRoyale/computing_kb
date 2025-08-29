@@ -105,6 +105,7 @@ cd domdom
 
 # but no perms for reading /Desktop/Readme
 
+which gcc #and others 
 ```
 
 
