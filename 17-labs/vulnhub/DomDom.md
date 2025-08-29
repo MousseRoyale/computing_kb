@@ -157,6 +157,7 @@ Tools to Root (not including dead ends):
 - Nmap - port discovery
 - Gobuster - find admin.php 
 - Burpsuite - enabled me to run rev shell 
+- getcap - seeing tar file ca
 
 
 HOTKEYS! 
