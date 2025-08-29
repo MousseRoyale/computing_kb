@@ -108,10 +108,13 @@ cd domdom
 which gcc #and cc, wget all positive
 
 file /bin/bash
-uname -a
+uname -a #Ubuntu 16.04 LTS
 
 
 sudo -l #no luck needs passwd
+groups #www-data, sudo
+
+
 ```
 
 
