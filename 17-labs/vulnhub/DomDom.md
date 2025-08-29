@@ -154,8 +154,9 @@ Take Away Concepts:
 Go back to my to try list while trying to do long tasks like hashcat etc.
 
 Tools to Root (not including dead ends):
-- gobuster - find admin.php 
-- Burpsuite - enabled command 
+- Nmap - port discovery
+- Gobuster - find admin.php 
+- Burpsuite - enabled me to run rev shell 
 
 
 HOTKEYS! 
