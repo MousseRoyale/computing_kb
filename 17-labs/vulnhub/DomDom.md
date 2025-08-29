@@ -154,7 +154,8 @@ Take Away Concepts:
 Go back to my to try list while trying to do long tasks like hashcat etc.
 
 Tools to Root (not including dead ends):
-- dirb/gobu
+- gobuster - find admin.php 
+- Burpsuite - enabled command 
 
 
 HOTKEYS! 
