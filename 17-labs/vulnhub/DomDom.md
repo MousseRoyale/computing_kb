@@ -62,7 +62,7 @@ Code Eval - ACE?
 Burpsuite
 ![[Pasted image 20250829104104.png]]
 
-try orward admin.php
+forward admin.php -> command executed
 ![[Pasted image 20250829104511.png]]
 
 
