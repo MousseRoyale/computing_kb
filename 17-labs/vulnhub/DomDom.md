@@ -100,8 +100,10 @@ stty columns 200 rows 20
 
 cd home
 
-# Saw domdom user here
+# Saw domdom user here 
 cd domdom
+
+# but no perms for reading /Desktop/Readme
 
 ```
 
