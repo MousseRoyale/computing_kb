@@ -116,8 +116,8 @@ groups #www-data, sudo
 env # PATH has /tmp - if privileged binary runs without path then malicious could be planted her
 
 #SUID/SGID
-find / -perm -u=s -type f 2>/dev/null # pkexec, 
-find / -perm -g=s -type f 2>/dev/null
+find / -perm -u=s -type f 2>/dev/null # pkexec, fusermount, mount/umount/fstab??
+find / -perm -g=s -type f 2>/dev/null # crontab, mlocate, ssh-agent
 
 
 
