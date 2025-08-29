@@ -141,6 +141,9 @@ Hi Dom, This is the root password:
 Mj7AGmPR-m&Vf>Ry{}LJRBS5nc+*V.#a
 
 
+su root #with passwd
+
+#POST EXPLOITATION
 
 ```
 
@@ -148,7 +151,7 @@ Mj7AGmPR-m&Vf>Ry{}LJRBS5nc+*V.#a
 --- 
 Take Away Concepts: 
 
-
+Go back to my to try list while trying to hashcat th
 
 HOTKEYS! 
 Background: Black 
