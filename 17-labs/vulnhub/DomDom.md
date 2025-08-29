@@ -62,6 +62,10 @@ Code Eval - ACE?
 Burpsuite
 ![[Pasted image 20250829104104.png]]
 
+try orward admin.php
+![[Pasted image 20250829104511.png]]
+
+
 
 ---
 
