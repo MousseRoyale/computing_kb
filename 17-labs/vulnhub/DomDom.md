@@ -65,6 +65,14 @@ Burpsuite
 forward admin.php -> command executed
 ![[Pasted image 20250829104511.png]]
 
+try execute id `name=admin&username=admin&password=admin&access=access&cmd=id`
+![[Pasted image 20250829104706.png]]
+
+
+code injection
+
+
+
 
 
 ---
