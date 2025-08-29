@@ -90,7 +90,15 @@ nc -nlvp 1234
 \[OTHER / PRIVILEGE-ESCALATION]:   
 S1ren get that tty
 
+```bash
+python3 -c 'import pty; pty.spawn("/bin/bash")'
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/tmp  
+export TERM=xterm-256color  
+alias ll='ls -lsaht --color=auto'  
+stty raw -echo ; fg ; reset  
+stty columns 200 rows 20
 
+```
 
 
 --- 
