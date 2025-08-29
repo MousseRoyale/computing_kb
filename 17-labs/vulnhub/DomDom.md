@@ -108,7 +108,10 @@ cd domdom
 which gcc #and cc, wget all positive
 
 file /bin/bash
-u
+uname -a
+
+
+sudo -l #no luck needs passwd
 ```
 
 
