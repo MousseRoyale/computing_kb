@@ -78,6 +78,7 @@ python3 -m http.server 9999
 nc -nlvp 1234 
 ```
 
+![[Pasted image 20250829105936.png]]
 
 
 ---
