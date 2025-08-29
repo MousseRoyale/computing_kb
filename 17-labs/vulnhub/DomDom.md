@@ -113,11 +113,13 @@ uname -a #Ubuntu 16.04 LTS
 
 sudo -l #no luck needs passwd
 groups #www-data, sudo
-env #nothing hugely special
+env # PATH has /tmp - if privileged binary runs without path then malicious could be planted her
 
 #SUID/SGID
-find / -perm -u=s -type f 2>/dev/null
+find / -perm -u=s -type f 2>/dev/null # pkexec, 
 find / -perm -g=s -type f 2>/dev/null
+
+
 
 
 ```
