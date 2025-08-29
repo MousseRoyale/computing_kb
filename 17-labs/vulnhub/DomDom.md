@@ -5,7 +5,7 @@
 **S1REN's Template Reference**
 
 \[OS]: Ubuntu
-\[Web-Technology]:  http://192.168.0.7:80
+\[Web-Technology]:  http://192.168.100.7:80
 \[Hostname]:  
 \[IP]:  192.168.100.7
 \[USERS]:   
