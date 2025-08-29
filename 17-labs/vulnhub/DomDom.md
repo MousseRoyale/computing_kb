@@ -157,9 +157,9 @@ Tools to Root (not including dead ends):
 - Nmap - port discovery
 - Gobuster - find admin.php 
 - Burpsuite - enabled me to run rev shell 
-- env - saw
 - getcap - seeing file capabilities let me exploit tar
 
+Note: env saw
 
 HOTKEYS! 
 Background: Black 
