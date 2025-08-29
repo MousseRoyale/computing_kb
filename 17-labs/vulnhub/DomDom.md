@@ -47,9 +47,10 @@ OS details: Linux 3.2 - 4.14, Linux 3.8 - 3.16
 | http-enum: 
 |_  /admin.php: Possible admin folder
 
-Nothing at /admin.php
+Nothing at 
 
 Gobuster - /server-status
+/admin.php
 
 ---
 
