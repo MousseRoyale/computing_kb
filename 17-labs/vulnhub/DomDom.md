@@ -7,7 +7,7 @@
 \[OS]: 
 \[Web-Technology]: 
 \[Hostname]:  
-\[IP]:  
+\[IP]:  192.168.100.7
 \[USERS]:   
 \[CREDENTIALS]:  
 
