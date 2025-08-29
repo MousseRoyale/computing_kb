@@ -89,7 +89,7 @@ nc -nlvp 1234
 
 \[OTHER / PRIVILEGE-ESCALATION]:   
 S1ren get that tty
-
+www-data
 ```bash
 python3 -c 'import pty; pty.spawn("/bin/bash")'
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/tmp  
