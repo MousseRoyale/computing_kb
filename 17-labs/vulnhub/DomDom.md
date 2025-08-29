@@ -134,7 +134,11 @@ cd /tmp
 cat etc/shadow
 # Now can crack /etc/shadow w/ hashcat/jtr
 
-/bin
+#Ok no luck but can do the same to the readme also
+ 
+Hi Dom, This is the root password:
+
+Mj7AGmPR-m&Vf>Ry{}LJRBS5nc+*V.#a
 
 
 
