@@ -12,8 +12,9 @@
 \[CREDENTIALS]:  
 
 ---
+\[To-Try LIST]:  
 
-User form - 
+User form - inputs sanitised
 
 Fuzzing
 
@@ -35,7 +36,6 @@ OS details: Linux 3.2 - 4.14, Linux 3.8 - 3.16
 
 \[Web Services Enumeration]:   
 
-\[To-Try LIST]:  
 
 80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
 |_http-title: DomDom
@@ -88,6 +88,10 @@ nc -nlvp 1234
 
 
 \[OTHER / PRIVILEGE-ESCALATION]:   
+S1ren get that tty
+
+
+
 
 --- 
 Take Away Concepts: 
