@@ -153,6 +153,10 @@ Take Away Concepts:
 
 Go back to my to try list while trying to do long tasks like hashcat etc.
 
+Tools to Root (not including dead ends):
+- dirb/gobu
+
+
 HOTKEYS! 
 Background: Black 
 Foreground (important elements): Red 
