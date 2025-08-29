@@ -12,20 +12,10 @@
 \[CREDENTIALS]:  
 
 ---
-\[To-Try LIST]:  
 
-80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
-|_http-title: DomDom
-|_http-server-header: Apache/2.4.18 (Ubuntu)
+User form - 
 
-|     Path: http://192.168.100.7:80/
-|     Form id: user_form
-|_    Form action: index.php
-| http-enum: 
-|_  /admin.php: Possible admin folder
-
-Nothing at /admin.
-
+Fuzzing
 
 
 ---
@@ -45,6 +35,21 @@ OS details: Linux 3.2 - 4.14, Linux 3.8 - 3.16
 
 \[Web Services Enumeration]:   
 
+\[To-Try LIST]:  
+
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+|_http-title: DomDom
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+
+|     Path: http://192.168.100.7:80/
+|     Form id: user_form
+|_    Form action: index.php
+| http-enum: 
+|_  /admin.php: Possible admin folder
+
+Nothing at /admin.php
+
+Gobuster - /server-status
 
 ---
 
