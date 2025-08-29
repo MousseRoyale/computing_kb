@@ -122,7 +122,7 @@ find / -perm -g=s -type f 2>/dev/null # crontab, mlocate, ssh-agent
 
 
 # Granted Implicit
-getcap -r / 2>/dev/null #
+getcap -r / 2>/dev/null #/usr/bin/systemd-detect-virt 
 
 
 ```
