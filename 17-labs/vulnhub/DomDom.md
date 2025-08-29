@@ -4,7 +4,7 @@
 
 **S1REN's Template Reference**
 
-\[OS]: 
+\[OS]: Ubuntu
 \[Web-Technology]: 
 \[Hostname]:  
 \[IP]:  192.168.100.7
@@ -14,7 +14,9 @@
 ---
 \[To-Try LIST]:  
 
-
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+|_http-title: DomDom
+|_http-server-header: Apache/2.4.18 (Ubuntu)
 
 
 ---
