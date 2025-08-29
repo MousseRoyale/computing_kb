@@ -79,6 +79,9 @@ nc -nlvp 1234
 ```
 
 ![[Pasted image 20250829105936.png]]
+![[Pasted image 20250829110029.png]]
+![[Pasted image 20250829110044.png]]
+
 
 
 ---
