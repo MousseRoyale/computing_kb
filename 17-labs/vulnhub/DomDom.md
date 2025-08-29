@@ -145,13 +145,14 @@ su root #with passwd
 
 #POST EXPLOITATION
 
+
 ```
 
 
 --- 
 Take Away Concepts: 
 
-Go back to my to try list while trying to hashcat th
+Go back to my to try list while trying to do long tasks like hashcat etc.
 
 HOTKEYS! 
 Background: Black 
