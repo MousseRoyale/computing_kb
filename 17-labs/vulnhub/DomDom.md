@@ -18,6 +18,13 @@
 |_http-title: DomDom
 |_http-server-header: Apache/2.4.18 (Ubuntu)
 
+|     Path: http://192.168.100.7:80/
+|     Form id: user_form
+|_    Form action: index.php
+| http-enum: 
+|_  /admin.php: Possible admin folder
+
+Nothing at /admin.
 
 
 
