@@ -105,7 +105,10 @@ cd domdom
 
 # but no perms for reading /Desktop/Readme
 
-which gcc #and others 
+which gcc #and cc, wget all positive
+
+file /bin/bash
+u
 ```
 
 
