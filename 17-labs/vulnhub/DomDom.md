@@ -122,7 +122,11 @@ find / -perm -g=s -type f 2>/dev/null # crontab, mlocate, ssh-agent
 
 
 # Granted Implicit
-getcap -r / 2>/dev/null #/usr/bin/systemd-detect-virt 
+getcap -r / 2>/dev/null 
+#/usr/bin/systemd-detect-virt - cap_dac_override and cap_sys_ptrace - bypass file rw perms and attach/manipulate processes
+
+#/bin/tar = cap_dac_read_search+ep 
+
 
 
 ```
