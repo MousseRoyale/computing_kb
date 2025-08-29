@@ -57,7 +57,7 @@ Dirb:
 SQLi - no results
 Fuzzing no results
 Brute forcing?
-Code Eval - ACE?
+Code Eval/Injection - ACE?
 
 Burpsuite
 ![[Pasted image 20250829104104.png]]
@@ -69,7 +69,8 @@ try execute id `name=admin&username=admin&password=admin&access=access&cmd=id`
 ![[Pasted image 20250829104706.png]]
 
 
-code injection
+code was executed. Now run reverse shell
+
 
 
 
