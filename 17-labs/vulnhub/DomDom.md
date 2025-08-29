@@ -53,6 +53,12 @@ Dirb:
 /server-status
 /admin.php
 
+
+SQLi - no results
+Fuzzing no results
+
+Burpsuit
+
 ---
 
 
