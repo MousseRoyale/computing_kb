@@ -159,8 +159,6 @@ Tools to Root (not including dead ends):
 - Burpsuite - enabled me to run rev shell 
 - getcap - seeing file capabilities let me exploit tar
 
-Note: env saw
-
 HOTKEYS! 
 Background: Black 
 Foreground (important elements): Red 
