@@ -99,6 +99,29 @@ PORT     STATE SERVICE  VERSION
 --- 
 \[Other Services]
 
+**FTP 21**
+Anonymous login - Welcome to Ghostgate (found hostname)
+
+```bash
+ls -la -> robots.txt -> disallows / 
+Write does not work
+```
+
+
+
+**NFS 2049**
+```bash
+showmount -e $IP
+                       
+Export list for 192.168.2.150:
+/tmp             * #likely world writable
+/srv/www/htdocs  * #web root directory
+/srv/www/cgi-bin * #cgi directory
+
+
+
+
+```
 
 ---
 
@@ -109,19 +132,23 @@ PORT     STATE SERVICE  VERSION
 
 **80**
 http://192.168.2.150/ -> nothing
- http-robots.txt: 1 disallowed entry 
+ nmap said http-robots.txt: 1 disallowed entry 
 
 **5801**
 http://192.168.2.150:5801/ -> nothing
 
+**Nikto**
+nikto --host $IP
 
 
-**Gobuster - Directorys**
+**Gobuster - Directorys and Files** 
 
 `gobuster dir -u http://$IP -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -k -t 30
 
 **80**
+/manual
 **5801**
+/manual
 
 ---
 
